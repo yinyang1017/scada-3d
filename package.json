@@ -10,7 +10,6 @@
     "axios": "^1.6.2",
     "d3-array": "^3.2.4",
     "dayjs": "^1.11.10",
-    "neo4j-driver": "^4.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-force-graph-2d": "^1.16.3",
